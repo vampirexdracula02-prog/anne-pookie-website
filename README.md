@@ -37,8 +37,8 @@ _Add a screenshot or recording here to showcase the final experience._
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sridevi-birthday.git
-cd sridevi-birthday
+git clone https://github.com/your-username/anne-birthday.git
+cd anne-birthday
 ```
 
 ### 2. Install Dependencies
@@ -66,7 +66,7 @@ npm run build
 ## Project Structure
 
 ```
-sridevi-birthday/
+anne-birthday/
 ├── public/
 │   └── birthday.mp3
 ├── src/
