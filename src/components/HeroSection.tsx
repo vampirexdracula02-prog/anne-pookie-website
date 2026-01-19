@@ -34,10 +34,10 @@ const HeroSection = () => {
       ) : (
         <>
           <h1 className="text-4xl sm:text-6xl font-bold text-auroraPink mb-6 drop-shadow-md z-10">
-            🎉 Happy Birthday Sridevi! 🎈
+            🎉 Happy Birthday ANNE! 🎈
           </h1>
           <p className="text-lg sm:text-xl text-gray-700 mb-4 max-w-xl z-10">
-            You’re officially one year wiser... and still not a constant 😌
+            You’re officially one year wiser... and still not a constant 😌 still i am wishing you a birthday very nicely haha have fun oldie
           </p>
           <OiaSticker />
           <Balloons />
