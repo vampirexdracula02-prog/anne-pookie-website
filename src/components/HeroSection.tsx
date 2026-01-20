@@ -37,7 +37,7 @@ const HeroSection = () => {
             🎉 Happy Birthday ANNE! 🎈
           </h1>
           <p className="text-lg sm:text-xl text-gray-700 mb-4 max-w-xl z-10">
-            You’re officially one year wiser... and still not a constant 😌 still i am wishing you a birthday very nicely haha have fun oldie
+            You’re officially one year wiser... and still not a constant 😌 but i am wishing you a birthday very nicely haha have fun oldie
           </p>
           <OiaSticker />
           <Balloons />
